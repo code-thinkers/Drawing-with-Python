@@ -15,9 +15,9 @@ Chương trình này sử dụng thư viện Turtle để vẽ các hình tròn 
    pip install PythonTurtle
    ```
 
-3. **Chạy Mã Nguồn**: Tải mã nguồn từ [đây](link-to-your-repo) và mở tệp Python (.py) trong một trình soạn thảo mã. Sau đó, chạy chương trình:
+3. **Chạy Mã Nguồn**: Sao chép mã nguồn và mở tệp Python (.py) trong một trình soạn thảo mã. Sau đó, chạy chương trình:
    ```bash
-   python your_script.py
+   python DrawingWithPython.py
    ```
 
 ## Mã Nguồn 📄
